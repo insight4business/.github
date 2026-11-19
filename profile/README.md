@@ -4,7 +4,7 @@
 
 **IA e cibersegurança para empresas.** Monitoramos, testamos e priorizamos o que expõe seus dados, e usamos IA para detectar fraude e perda antes que virem prejuízo. Operação no Brasil e nos EUA.
 
-Founded and led by [Marcos Duarte](https://github.com/lushaff), founder and CEO.
+Founded and led by [Marcos Duarte](https://github.com/mcavduarte), founder and CEO.
 
 Website: https://insight4biz.com
 
