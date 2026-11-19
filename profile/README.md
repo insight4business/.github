@@ -8,6 +8,19 @@ Founded and led by [Marcos Duarte](https://github.com/lushaff), founder and CEO.
 
 Website: https://insight4biz.com
 
+## Head of Cyber as a Service
+
+A senior security leader for companies that need one without a full-time hire. We set the strategy, run the security program and answer to your executives and your customers, with a team behind the leader.
+
+- Security strategy and roadmap
+- Risk management and compliance readiness: ISO 27001, LGPD, GDPR and customer due diligence
+- Oversight of security operations: SOC, incident response and vulnerability management
+- Cloud and identity security architecture
+- Executive reporting and answers to customer security questionnaires
+- Detection engineering, cloud and AI specialists available as the engagement needs them
+
+Engagements run as a monthly retainer with a defined scope, or by project. Talk to us at https://insight4biz.com.
+
 ## What we do
 
 | Front | Focus |
