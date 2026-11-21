@@ -2,10 +2,6 @@
 
 **Head of Cyber as a Service (vCISO).** Senior security leadership for companies that need a head of security without a full-time hire, so a customer's security questionnaire, an ISO 27001 audit or a due diligence stops blocking a deal.
 
-**Head of Cyber as a Service (vCISO).** Liderança sênior de segurança para empresas que precisam de um head de segurança sem contratação em tempo integral, para que o questionário de segurança de um cliente, uma auditoria ISO 27001 ou uma due diligence deixem de travar um negócio.
-
-Founded and led by [Marcos Duarte](https://github.com/mcavduarte), founder and CEO. Based in Brazil, with project experience in the United States and the United Kingdom.
-
 ## What is included
 
 - Security strategy and roadmap
